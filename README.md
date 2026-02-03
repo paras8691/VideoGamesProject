@@ -3,7 +3,7 @@
 
 The objective of this project is to analyze global video game sales data to uncover trends in game popularity, regional performance, genre success, and sales growth over time. The insights derived help understand market behavior and factors influencing video game sales.
 
-##Dataset
+## Dataset
 
 The dataset contains historical video game sales records including:
 Game Title
@@ -15,7 +15,7 @@ Regional Sales (National/NA, EU, JP, etc.)
 Global Sales
 This dataset provides a comprehensive view of how different types of games perform across various regions.
 
-##Tools & Technologies Used
+## Tools & Technologies Used
 
 Python
 Pandas (Data Cleaning & Analysis)
@@ -24,7 +24,7 @@ SQL (Data querying and filtering)
 Excel (Initial data exploration)\
 Power BI (Interactive dashboard & reporting)
 
-##Analysis Performed
+## Analysis Performed
 
 Data cleaning and preprocessing (handling missing values, duplicates)
 Genre-wise sales analysis
@@ -43,7 +43,7 @@ Video game sales experienced peak growth during specific years, indicating indus
 Some platforms consistently produce higher-selling games compared to others.
 Global sales trends closely follow regional performance patterns.
 
-##Dashboard & Visualizations
+## Dashboard & Visualizations
 
 The project includes interactive dashboards built in Power BI to visualize:
 Sales trends over time
@@ -51,7 +51,7 @@ Genre performance
 Regional and country sales distribution
 Platform-wise contribution to global sales
 
-##How to Run This Project
+## How to Run This Project
 
 1. Download the dataset (CSV file)
 2. Open the Jupyter Notebook and run all cells
